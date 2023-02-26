@@ -1,0 +1,8 @@
+GET http://localhost:3001/movies/
+###
+GET http://localhost:3001/movies/100
+###
+POST http://localhost:3001/movies/
+###
+
+DELETE http://localhost:3001/movies/126/
