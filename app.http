@@ -1,8 +1,8 @@
-GET http://localhost:3001/movies/
+GET http://localhost:3000/movies/
 ###
-GET http://localhost:3001/movies/100
+GET http://localhost:3000/movies/100
 ###
-POST http://localhost:3001/movies/
+POST http://localhost:3000/movies/
 ###
 
-DELETE http://localhost:3001/movies/126/
+DELETE http://localhost:3000/movies/126/
